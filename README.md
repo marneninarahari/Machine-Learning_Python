@@ -1,3 +1,3 @@
 # Machine-Learning_Python
 
-Use for reference purpose only
+Use only for reference purpose
