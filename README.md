@@ -9,7 +9,7 @@ Python Libraries
 
 Machine Learning
 
-regression
+Regression
 
 Hierarchical Clustering
 
